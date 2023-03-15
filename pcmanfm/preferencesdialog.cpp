@@ -26,9 +26,9 @@
 #include <QStringBuilder>
 #include <QSettings>
 
-#include <libfm-qt/folderview.h>
-#include <libfm-qt/core/terminal.h>
-#include <libfm-qt/core/archiver.h>
+#include <libfm-qt6/folderview.h>
+#include <libfm-qt6/core/terminal.h>
+#include <libfm-qt6/core/archiver.h>
 
 namespace PCManFM {
 
